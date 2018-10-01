@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: My Starter Project
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: 146748370590
+Implementation-Vendor-Id: com.gmail.douglas
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/my-starter-project
+Created-By: Maven Integration for Eclipse
+
